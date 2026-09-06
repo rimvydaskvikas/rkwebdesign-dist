@@ -1,0 +1,2 @@
+.fld{pointer-events:none;position:absolute;inset:0}.fld canvas{display:block;width:100%!important;height:100%!important}.fld--flat{aspect-ratio:1;background:radial-gradient(circle at 38% 32%,#f2f0ec0a,#0000 58%),radial-gradient(circle,#0000 62%,#f2f0ec05 63%,#0000 72%);border-radius:50%;width:min(46vw,560px);inset:50% auto auto 50%;transform:translate(-50%,-50%);-webkit-mask-image:radial-gradient(circle,#000 58%,#0000 74%);mask-image:radial-gradient(circle,#000 58%,#0000 74%)}@media (width<=1000px){.fld--flat{width:min(78vw,420px)}}
+/*$vite$:1*/
