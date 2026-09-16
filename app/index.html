@@ -5,10 +5,29 @@
     <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
     <meta name="theme-color" content="#050506" />
+    <!-- Tema nustatoma prieš pirmą piešimą, kad nemirksėtų:
+         URL ?tema=sviesi|tamsi turi pirmenybę, po to localStorage 'rkwd-tema'.
+         Numatytoji - tamsi. -->
+    <script>
+      (function () {
+        var t = null;
+        try {
+          var q = new URLSearchParams(location.search).get('tema');
+          if (q === 'sviesi') t = 'light';
+          else if (q === 'tamsi') t = 'dark';
+          if (t) localStorage.setItem('rkwd-tema', t);
+          else t = localStorage.getItem('rkwd-tema');
+        } catch (e) {}
+        if (t !== 'light') t = 'dark';
+        document.documentElement.dataset.theme = t;
+        var m = document.querySelector('meta[name="theme-color"]');
+        if (m) m.setAttribute('content', t === 'light' ? '#F7F5F0' : '#050506');
+      })();
+    </script>
     <title>RK Web Design - svetainės, kurios parduoda</title>
     <meta
       name="description"
-      content="Kuriame svetaines ir el. parduotuves Lietuvos įmonėms. WordPress ir WooCommerce, turinį valdote patys, priežiūra po paleidimo. Kaunas."
+      content="Kuriame svetaines ir el. parduotuves Lietuvos įmonėms. WordPress ir WooCommerce, turinį keičiate patys, priežiūra po paleidimo. Studija Kaune, dirbame visoje Lietuvoje."
     />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -16,10 +35,10 @@
       href="https://fonts.googleapis.com/css2?family=Outfit:wght@200;300;400;500&family=IBM+Plex+Mono:wght@400&subset=latin,latin-ext&display=swap"
       rel="stylesheet"
     />
-    <script type="module" crossorigin src="./assets/index-CRlPAnTm.js"></script>
-    <link rel="stylesheet" crossorigin href="./assets/index-BD1YF18x.css">
+    <script type="module" crossorigin src="./assets/index-CL5t4YaM.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-D9vH87ZP.css">
   </head>
   <body>
-    <div id="root"></div>
+    <div id="root"></div>
   </body>
 </html>
