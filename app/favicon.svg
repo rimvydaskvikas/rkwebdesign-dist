@@ -1,1 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" fill="#0A0A0B"/><circle cx="32" cy="32" r="9" fill="#D8FF3E"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="RK Web Design">
+  <!-- Tamsus kvadratas su auksine RK monograma: tas pats ženklas, kaip
+       svetainės viršuje. Raidės nupieštos keliais (ne tekstu), kad
+       nepriklausytų nuo Outfit šrifto - naršyklės kortelėje ir
+       žymelėse jis neįkeliamas. -->
+  <rect width="64" height="64" rx="12" fill="#0A0A0B"/>
+  <g fill="#C8A96A">
+    <!-- R: stačias stulpelis, apvali kilpa ir kojelė -->
+    <rect x="12" y="19" width="5" height="26"/>
+    <path d="M17 19h9a8 8 0 0 1 0 16h-9v-4.6h8.6a3.4 3.4 0 0 0 0-6.8H17z"/>
+    <path d="m21.6 34.6 4.9-1.9L33 45h-5.6z"/>
+    <!-- K: stulpelis ir dvi įstrižės -->
+    <rect x="36" y="19" width="5" height="26"/>
+    <path d="m41 32.1 9.2-13.1H56l-9.4 13.2z"/>
+    <path d="m46.4 31.5 4.4-2.6L57 45h-5.9z"/>
+  </g>
+</svg>
