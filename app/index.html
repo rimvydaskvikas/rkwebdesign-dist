@@ -30,28 +30,14 @@
         if (m) m.setAttribute('content', t === 'light' ? '#F7F5F0' : '#050506');
       })();
     </script>
-    <title>RK Web Design - svetainės, kurios parduoda</title>
-    <meta
-      name="description"
-      content="Kuriame svetaines ir el. parduotuves Lietuvos įmonėms. WordPress ir WooCommerce, turinį keičiate patys, priežiūra po paleidimo. Studija Kaune, dirbame visoje Lietuvoje."
-    />
-    <link rel="canonical" href="https://rkwebdesign.lt/" />
-    <meta name="robots" content="index, follow, max-image-preview:large" />
-    <meta property="og:type" content="website" />
-    <meta property="og:locale" content="lt_LT" />
-    <meta property="og:site_name" content="RK Web Design" />
-    <meta property="og:title" content="RK Web Design - svetainės, kurios parduoda" />
-    <meta property="og:description" content="Kuriame svetaines ir el. parduotuves Lietuvos įmonėms. Studija Kaune, dirbame visoje Lietuvoje." />
-    <meta property="og:url" content="https://rkwebdesign.lt/" />
-    <meta name="twitter:card" content="summary_large_image" />
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Outfit:wght@200;300;400;500&family=IBM+Plex+Mono:wght@400&subset=latin,latin-ext&display=swap"
-      rel="stylesheet"
-    />
-    <script type="module" crossorigin src="./assets/index-CPMN6C15.js"></script>
-    <link rel="stylesheet" crossorigin href="./assets/index-CcXWgddZ.css">
+    <!-- Tik kūrimui (vite dev). Gyvai <head> spausdina WP apvalkalas (snippet 16) iš wp-cdn/meta.json.
+         title, description, canonical, og ir JSON-LD nustato src/lib/seo.ts pagal kelią -
+         čia jų nekartojame, kad neliktų antros, pasenusios versijos. -->
+    <title>RKWebDesignStudija</title>
+    <!-- Šriftai (Outfit, IBM Plex Mono) - savi woff2 iš src/assets/fonts per base.css @font-face, be Google Fonts.
+         Gyvai preload eilutes spausdina WP apvalkalas iš meta.json assets.preloadLinks. -->
+    <script type="module" crossorigin src="./assets/index-DuC_I_sX.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-2XjufaU2.css">
   </head>
   <body>
     <div id="root"></div>

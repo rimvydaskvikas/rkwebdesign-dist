@@ -1,0 +1,1267 @@
+{
+  "_motion-D4pvMnRC.js": {
+    "file": "assets/motion-D4pvMnRC.js",
+    "name": "motion"
+  },
+  "_ui-DJuTCyz9.js": {
+    "file": "assets/ui-DJuTCyz9.js",
+    "name": "ui",
+    "imports": [
+      "index.html",
+      "_motion-D4pvMnRC.js"
+    ],
+    "dynamicImports": [
+      "src/components/viewer/Viewer.tsx"
+    ]
+  },
+  "index.html": {
+    "file": "assets/index-DuC_I_sX.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "dynamicImports": [
+      "src/components/project/ProjectPage.tsx",
+      "src/components/project/ProjectMissing.tsx",
+      "src/pages/PaslaugaPage.tsx",
+      "src/pages/DarbaiPage.tsx",
+      "src/pages/PaslaugosPage.tsx",
+      "src/pages/EigaPage.tsx",
+      "src/pages/KainosPage.tsx",
+      "src/pages/KontaktaiPage.tsx",
+      "src/pages/PrivatumasPage.tsx",
+      "src/App.tsx"
+    ],
+    "css": [
+      "assets/index-2XjufaU2.css"
+    ],
+    "assets": [
+      "assets/darbai/ak-cover-d-1400.webp",
+      "assets/darbai/ak-cover-d-1800.webp",
+      "assets/darbai/ak-cover-d-900.webp",
+      "assets/darbai/ak-cover-m-1170.webp",
+      "assets/darbai/ak-cover-m-160.webp",
+      "assets/darbai/ak-cover-m-240.webp",
+      "assets/darbai/ak-cover-m-390.webp",
+      "assets/darbai/ak-cover-m-480.webp",
+      "assets/darbai/ak-cover-m-600.webp",
+      "assets/darbai/ak-cover-m-780.webp",
+      "assets/darbai/ak-darbai-d-1400.webp",
+      "assets/darbai/ak-darbai-d-1800.webp",
+      "assets/darbai/ak-darbai-d-900.webp",
+      "assets/darbai/ak-darbai-m-1170.webp",
+      "assets/darbai/ak-darbai-m-160.webp",
+      "assets/darbai/ak-darbai-m-240.webp",
+      "assets/darbai/ak-darbai-m-390.webp",
+      "assets/darbai/ak-darbai-m-480.webp",
+      "assets/darbai/ak-darbai-m-600.webp",
+      "assets/darbai/ak-darbai-m-780.webp",
+      "assets/darbai/ak-parduotuve-d-1400.webp",
+      "assets/darbai/ak-parduotuve-d-1800.webp",
+      "assets/darbai/ak-parduotuve-d-900.webp",
+      "assets/darbai/ak-parduotuve-m-1170.webp",
+      "assets/darbai/ak-parduotuve-m-160.webp",
+      "assets/darbai/ak-parduotuve-m-240.webp",
+      "assets/darbai/ak-parduotuve-m-390.webp",
+      "assets/darbai/ak-parduotuve-m-480.webp",
+      "assets/darbai/ak-parduotuve-m-600.webp",
+      "assets/darbai/ak-parduotuve-m-780.webp",
+      "assets/darbai/ak-parduotuve-thumb-240.webp",
+      "assets/darbai/ak-parduotuve-thumb-480.webp",
+      "assets/darbai/ak-paslaugos-d-1400.webp",
+      "assets/darbai/ak-paslaugos-d-1800.webp",
+      "assets/darbai/ak-paslaugos-d-900.webp",
+      "assets/darbai/ak-paslaugos-m-1170.webp",
+      "assets/darbai/ak-paslaugos-m-160.webp",
+      "assets/darbai/ak-paslaugos-m-240.webp",
+      "assets/darbai/ak-paslaugos-m-390.webp",
+      "assets/darbai/ak-paslaugos-m-480.webp",
+      "assets/darbai/ak-paslaugos-m-600.webp",
+      "assets/darbai/ak-paslaugos-m-780.webp",
+      "assets/darbai/ak-titulinis-thumb-240.webp",
+      "assets/darbai/ak-titulinis-thumb-480.webp",
+      "assets/darbai/mcm-card-d-1400.webp",
+      "assets/darbai/mcm-card-d-1800.webp",
+      "assets/darbai/mcm-card-d-900.webp",
+      "assets/darbai/mcm-cover-d-1400.webp",
+      "assets/darbai/mcm-cover-d-1800.webp",
+      "assets/darbai/mcm-cover-d-900.webp",
+      "assets/darbai/mcm-cover-m-1170.webp",
+      "assets/darbai/mcm-cover-m-160.webp",
+      "assets/darbai/mcm-cover-m-240.webp",
+      "assets/darbai/mcm-cover-m-390.webp",
+      "assets/darbai/mcm-cover-m-480.webp",
+      "assets/darbai/mcm-cover-m-600.webp",
+      "assets/darbai/mcm-cover-m-780.webp",
+      "assets/darbai/mcm-kategorija-thumb-240.webp",
+      "assets/darbai/mcm-kategorija-thumb-480.webp",
+      "assets/darbai/mcm-kategorijos-d-1400.webp",
+      "assets/darbai/mcm-kategorijos-d-1800.webp",
+      "assets/darbai/mcm-kategorijos-d-900.webp",
+      "assets/darbai/mcm-kategorijos-m-1170.webp",
+      "assets/darbai/mcm-kategorijos-m-160.webp",
+      "assets/darbai/mcm-kategorijos-m-240.webp",
+      "assets/darbai/mcm-kategorijos-m-390.webp",
+      "assets/darbai/mcm-kategorijos-m-480.webp",
+      "assets/darbai/mcm-kategorijos-m-600.webp",
+      "assets/darbai/mcm-kategorijos-m-780.webp",
+      "assets/darbai/mcm-kolekcija-d-1400.webp",
+      "assets/darbai/mcm-kolekcija-d-1800.webp",
+      "assets/darbai/mcm-kolekcija-d-900.webp",
+      "assets/darbai/mcm-kolekcija-m-1170.webp",
+      "assets/darbai/mcm-kolekcija-m-160.webp",
+      "assets/darbai/mcm-kolekcija-m-240.webp",
+      "assets/darbai/mcm-kolekcija-m-390.webp",
+      "assets/darbai/mcm-kolekcija-m-480.webp",
+      "assets/darbai/mcm-kolekcija-m-600.webp",
+      "assets/darbai/mcm-kolekcija-m-780.webp",
+      "assets/darbai/mcm-preke-d-1400.webp",
+      "assets/darbai/mcm-preke-d-1800.webp",
+      "assets/darbai/mcm-preke-d-900.webp",
+      "assets/darbai/mcm-preke-m-1170.webp",
+      "assets/darbai/mcm-preke-m-160.webp",
+      "assets/darbai/mcm-preke-m-240.webp",
+      "assets/darbai/mcm-preke-m-390.webp",
+      "assets/darbai/mcm-preke-m-480.webp",
+      "assets/darbai/mcm-preke-m-600.webp",
+      "assets/darbai/mcm-preke-m-780.webp",
+      "assets/darbai/mcm-preke-thumb-240.webp",
+      "assets/darbai/mcm-preke-thumb-480.webp",
+      "assets/darbai/mcm-titulinis-thumb-240.webp",
+      "assets/darbai/mcm-titulinis-thumb-480.webp",
+      "assets/fonts/outfit-latin-ext.woff2",
+      "assets/fonts/outfit-latin.woff2",
+      "assets/fonts/ibm-plex-mono-400-latin-ext.woff2",
+      "assets/fonts/ibm-plex-mono-400-latin.woff2"
+    ]
+  },
+  "src/App.tsx": {
+    "file": "assets/App-DfEO-RTr.js",
+    "name": "App",
+    "src": "src/App.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_motion-D4pvMnRC.js",
+      "_ui-DJuTCyz9.js"
+    ],
+    "dynamicImports": [
+      "src/components/webgl/FieldScene.tsx"
+    ]
+  },
+  "src/assets/darbai/ak-cover-d-1400.webp": {
+    "file": "assets/darbai/ak-cover-d-1400.webp",
+    "src": "src/assets/darbai/ak-cover-d-1400.webp"
+  },
+  "src/assets/darbai/ak-cover-d-1800.webp": {
+    "file": "assets/darbai/ak-cover-d-1800.webp",
+    "src": "src/assets/darbai/ak-cover-d-1800.webp"
+  },
+  "src/assets/darbai/ak-cover-d-900.webp": {
+    "file": "assets/darbai/ak-cover-d-900.webp",
+    "src": "src/assets/darbai/ak-cover-d-900.webp"
+  },
+  "src/assets/darbai/ak-cover-m-1170.webp": {
+    "file": "assets/darbai/ak-cover-m-1170.webp",
+    "src": "src/assets/darbai/ak-cover-m-1170.webp"
+  },
+  "src/assets/darbai/ak-cover-m-160.webp": {
+    "file": "assets/darbai/ak-cover-m-160.webp",
+    "src": "src/assets/darbai/ak-cover-m-160.webp"
+  },
+  "src/assets/darbai/ak-cover-m-240.webp": {
+    "file": "assets/darbai/ak-cover-m-240.webp",
+    "src": "src/assets/darbai/ak-cover-m-240.webp"
+  },
+  "src/assets/darbai/ak-cover-m-390.webp": {
+    "file": "assets/darbai/ak-cover-m-390.webp",
+    "src": "src/assets/darbai/ak-cover-m-390.webp"
+  },
+  "src/assets/darbai/ak-cover-m-480.webp": {
+    "file": "assets/darbai/ak-cover-m-480.webp",
+    "src": "src/assets/darbai/ak-cover-m-480.webp"
+  },
+  "src/assets/darbai/ak-cover-m-600.webp": {
+    "file": "assets/darbai/ak-cover-m-600.webp",
+    "src": "src/assets/darbai/ak-cover-m-600.webp"
+  },
+  "src/assets/darbai/ak-cover-m-780.webp": {
+    "file": "assets/darbai/ak-cover-m-780.webp",
+    "src": "src/assets/darbai/ak-cover-m-780.webp"
+  },
+  "src/assets/darbai/ak-darbai-d-1400.webp": {
+    "file": "assets/darbai/ak-darbai-d-1400.webp",
+    "src": "src/assets/darbai/ak-darbai-d-1400.webp"
+  },
+  "src/assets/darbai/ak-darbai-d-1800.webp": {
+    "file": "assets/darbai/ak-darbai-d-1800.webp",
+    "src": "src/assets/darbai/ak-darbai-d-1800.webp"
+  },
+  "src/assets/darbai/ak-darbai-d-900.webp": {
+    "file": "assets/darbai/ak-darbai-d-900.webp",
+    "src": "src/assets/darbai/ak-darbai-d-900.webp"
+  },
+  "src/assets/darbai/ak-darbai-m-1170.webp": {
+    "file": "assets/darbai/ak-darbai-m-1170.webp",
+    "src": "src/assets/darbai/ak-darbai-m-1170.webp"
+  },
+  "src/assets/darbai/ak-darbai-m-160.webp": {
+    "file": "assets/darbai/ak-darbai-m-160.webp",
+    "src": "src/assets/darbai/ak-darbai-m-160.webp"
+  },
+  "src/assets/darbai/ak-darbai-m-240.webp": {
+    "file": "assets/darbai/ak-darbai-m-240.webp",
+    "src": "src/assets/darbai/ak-darbai-m-240.webp"
+  },
+  "src/assets/darbai/ak-darbai-m-390.webp": {
+    "file": "assets/darbai/ak-darbai-m-390.webp",
+    "src": "src/assets/darbai/ak-darbai-m-390.webp"
+  },
+  "src/assets/darbai/ak-darbai-m-480.webp": {
+    "file": "assets/darbai/ak-darbai-m-480.webp",
+    "src": "src/assets/darbai/ak-darbai-m-480.webp"
+  },
+  "src/assets/darbai/ak-darbai-m-600.webp": {
+    "file": "assets/darbai/ak-darbai-m-600.webp",
+    "src": "src/assets/darbai/ak-darbai-m-600.webp"
+  },
+  "src/assets/darbai/ak-darbai-m-780.webp": {
+    "file": "assets/darbai/ak-darbai-m-780.webp",
+    "src": "src/assets/darbai/ak-darbai-m-780.webp"
+  },
+  "src/assets/darbai/ak-parduotuve-d-1400.webp": {
+    "file": "assets/darbai/ak-parduotuve-d-1400.webp",
+    "src": "src/assets/darbai/ak-parduotuve-d-1400.webp"
+  },
+  "src/assets/darbai/ak-parduotuve-d-1800.webp": {
+    "file": "assets/darbai/ak-parduotuve-d-1800.webp",
+    "src": "src/assets/darbai/ak-parduotuve-d-1800.webp"
+  },
+  "src/assets/darbai/ak-parduotuve-d-900.webp": {
+    "file": "assets/darbai/ak-parduotuve-d-900.webp",
+    "src": "src/assets/darbai/ak-parduotuve-d-900.webp"
+  },
+  "src/assets/darbai/ak-parduotuve-m-1170.webp": {
+    "file": "assets/darbai/ak-parduotuve-m-1170.webp",
+    "src": "src/assets/darbai/ak-parduotuve-m-1170.webp"
+  },
+  "src/assets/darbai/ak-parduotuve-m-160.webp": {
+    "file": "assets/darbai/ak-parduotuve-m-160.webp",
+    "src": "src/assets/darbai/ak-parduotuve-m-160.webp"
+  },
+  "src/assets/darbai/ak-parduotuve-m-240.webp": {
+    "file": "assets/darbai/ak-parduotuve-m-240.webp",
+    "src": "src/assets/darbai/ak-parduotuve-m-240.webp"
+  },
+  "src/assets/darbai/ak-parduotuve-m-390.webp": {
+    "file": "assets/darbai/ak-parduotuve-m-390.webp",
+    "src": "src/assets/darbai/ak-parduotuve-m-390.webp"
+  },
+  "src/assets/darbai/ak-parduotuve-m-480.webp": {
+    "file": "assets/darbai/ak-parduotuve-m-480.webp",
+    "src": "src/assets/darbai/ak-parduotuve-m-480.webp"
+  },
+  "src/assets/darbai/ak-parduotuve-m-600.webp": {
+    "file": "assets/darbai/ak-parduotuve-m-600.webp",
+    "src": "src/assets/darbai/ak-parduotuve-m-600.webp"
+  },
+  "src/assets/darbai/ak-parduotuve-m-780.webp": {
+    "file": "assets/darbai/ak-parduotuve-m-780.webp",
+    "src": "src/assets/darbai/ak-parduotuve-m-780.webp"
+  },
+  "src/assets/darbai/ak-parduotuve-thumb-240.webp": {
+    "file": "assets/darbai/ak-parduotuve-thumb-240.webp",
+    "src": "src/assets/darbai/ak-parduotuve-thumb-240.webp"
+  },
+  "src/assets/darbai/ak-parduotuve-thumb-480.webp": {
+    "file": "assets/darbai/ak-parduotuve-thumb-480.webp",
+    "src": "src/assets/darbai/ak-parduotuve-thumb-480.webp"
+  },
+  "src/assets/darbai/ak-paslaugos-d-1400.webp": {
+    "file": "assets/darbai/ak-paslaugos-d-1400.webp",
+    "src": "src/assets/darbai/ak-paslaugos-d-1400.webp"
+  },
+  "src/assets/darbai/ak-paslaugos-d-1800.webp": {
+    "file": "assets/darbai/ak-paslaugos-d-1800.webp",
+    "src": "src/assets/darbai/ak-paslaugos-d-1800.webp"
+  },
+  "src/assets/darbai/ak-paslaugos-d-900.webp": {
+    "file": "assets/darbai/ak-paslaugos-d-900.webp",
+    "src": "src/assets/darbai/ak-paslaugos-d-900.webp"
+  },
+  "src/assets/darbai/ak-paslaugos-m-1170.webp": {
+    "file": "assets/darbai/ak-paslaugos-m-1170.webp",
+    "src": "src/assets/darbai/ak-paslaugos-m-1170.webp"
+  },
+  "src/assets/darbai/ak-paslaugos-m-160.webp": {
+    "file": "assets/darbai/ak-paslaugos-m-160.webp",
+    "src": "src/assets/darbai/ak-paslaugos-m-160.webp"
+  },
+  "src/assets/darbai/ak-paslaugos-m-240.webp": {
+    "file": "assets/darbai/ak-paslaugos-m-240.webp",
+    "src": "src/assets/darbai/ak-paslaugos-m-240.webp"
+  },
+  "src/assets/darbai/ak-paslaugos-m-390.webp": {
+    "file": "assets/darbai/ak-paslaugos-m-390.webp",
+    "src": "src/assets/darbai/ak-paslaugos-m-390.webp"
+  },
+  "src/assets/darbai/ak-paslaugos-m-480.webp": {
+    "file": "assets/darbai/ak-paslaugos-m-480.webp",
+    "src": "src/assets/darbai/ak-paslaugos-m-480.webp"
+  },
+  "src/assets/darbai/ak-paslaugos-m-600.webp": {
+    "file": "assets/darbai/ak-paslaugos-m-600.webp",
+    "src": "src/assets/darbai/ak-paslaugos-m-600.webp"
+  },
+  "src/assets/darbai/ak-paslaugos-m-780.webp": {
+    "file": "assets/darbai/ak-paslaugos-m-780.webp",
+    "src": "src/assets/darbai/ak-paslaugos-m-780.webp"
+  },
+  "src/assets/darbai/ak-titulinis-thumb-240.webp": {
+    "file": "assets/darbai/ak-titulinis-thumb-240.webp",
+    "src": "src/assets/darbai/ak-titulinis-thumb-240.webp"
+  },
+  "src/assets/darbai/ak-titulinis-thumb-480.webp": {
+    "file": "assets/darbai/ak-titulinis-thumb-480.webp",
+    "src": "src/assets/darbai/ak-titulinis-thumb-480.webp"
+  },
+  "src/assets/darbai/mcm-card-d-1400.webp": {
+    "file": "assets/darbai/mcm-card-d-1400.webp",
+    "src": "src/assets/darbai/mcm-card-d-1400.webp"
+  },
+  "src/assets/darbai/mcm-card-d-1800.webp": {
+    "file": "assets/darbai/mcm-card-d-1800.webp",
+    "src": "src/assets/darbai/mcm-card-d-1800.webp"
+  },
+  "src/assets/darbai/mcm-card-d-900.webp": {
+    "file": "assets/darbai/mcm-card-d-900.webp",
+    "src": "src/assets/darbai/mcm-card-d-900.webp"
+  },
+  "src/assets/darbai/mcm-cover-d-1400.webp": {
+    "file": "assets/darbai/mcm-cover-d-1400.webp",
+    "src": "src/assets/darbai/mcm-cover-d-1400.webp"
+  },
+  "src/assets/darbai/mcm-cover-d-1800.webp": {
+    "file": "assets/darbai/mcm-cover-d-1800.webp",
+    "src": "src/assets/darbai/mcm-cover-d-1800.webp"
+  },
+  "src/assets/darbai/mcm-cover-d-900.webp": {
+    "file": "assets/darbai/mcm-cover-d-900.webp",
+    "src": "src/assets/darbai/mcm-cover-d-900.webp"
+  },
+  "src/assets/darbai/mcm-cover-m-1170.webp": {
+    "file": "assets/darbai/mcm-cover-m-1170.webp",
+    "src": "src/assets/darbai/mcm-cover-m-1170.webp"
+  },
+  "src/assets/darbai/mcm-cover-m-160.webp": {
+    "file": "assets/darbai/mcm-cover-m-160.webp",
+    "src": "src/assets/darbai/mcm-cover-m-160.webp"
+  },
+  "src/assets/darbai/mcm-cover-m-240.webp": {
+    "file": "assets/darbai/mcm-cover-m-240.webp",
+    "src": "src/assets/darbai/mcm-cover-m-240.webp"
+  },
+  "src/assets/darbai/mcm-cover-m-390.webp": {
+    "file": "assets/darbai/mcm-cover-m-390.webp",
+    "src": "src/assets/darbai/mcm-cover-m-390.webp"
+  },
+  "src/assets/darbai/mcm-cover-m-480.webp": {
+    "file": "assets/darbai/mcm-cover-m-480.webp",
+    "src": "src/assets/darbai/mcm-cover-m-480.webp"
+  },
+  "src/assets/darbai/mcm-cover-m-600.webp": {
+    "file": "assets/darbai/mcm-cover-m-600.webp",
+    "src": "src/assets/darbai/mcm-cover-m-600.webp"
+  },
+  "src/assets/darbai/mcm-cover-m-780.webp": {
+    "file": "assets/darbai/mcm-cover-m-780.webp",
+    "src": "src/assets/darbai/mcm-cover-m-780.webp"
+  },
+  "src/assets/darbai/mcm-kategorija-thumb-240.webp": {
+    "file": "assets/darbai/mcm-kategorija-thumb-240.webp",
+    "src": "src/assets/darbai/mcm-kategorija-thumb-240.webp"
+  },
+  "src/assets/darbai/mcm-kategorija-thumb-480.webp": {
+    "file": "assets/darbai/mcm-kategorija-thumb-480.webp",
+    "src": "src/assets/darbai/mcm-kategorija-thumb-480.webp"
+  },
+  "src/assets/darbai/mcm-kategorijos-d-1400.webp": {
+    "file": "assets/darbai/mcm-kategorijos-d-1400.webp",
+    "src": "src/assets/darbai/mcm-kategorijos-d-1400.webp"
+  },
+  "src/assets/darbai/mcm-kategorijos-d-1800.webp": {
+    "file": "assets/darbai/mcm-kategorijos-d-1800.webp",
+    "src": "src/assets/darbai/mcm-kategorijos-d-1800.webp"
+  },
+  "src/assets/darbai/mcm-kategorijos-d-900.webp": {
+    "file": "assets/darbai/mcm-kategorijos-d-900.webp",
+    "src": "src/assets/darbai/mcm-kategorijos-d-900.webp"
+  },
+  "src/assets/darbai/mcm-kategorijos-m-1170.webp": {
+    "file": "assets/darbai/mcm-kategorijos-m-1170.webp",
+    "src": "src/assets/darbai/mcm-kategorijos-m-1170.webp"
+  },
+  "src/assets/darbai/mcm-kategorijos-m-160.webp": {
+    "file": "assets/darbai/mcm-kategorijos-m-160.webp",
+    "src": "src/assets/darbai/mcm-kategorijos-m-160.webp"
+  },
+  "src/assets/darbai/mcm-kategorijos-m-240.webp": {
+    "file": "assets/darbai/mcm-kategorijos-m-240.webp",
+    "src": "src/assets/darbai/mcm-kategorijos-m-240.webp"
+  },
+  "src/assets/darbai/mcm-kategorijos-m-390.webp": {
+    "file": "assets/darbai/mcm-kategorijos-m-390.webp",
+    "src": "src/assets/darbai/mcm-kategorijos-m-390.webp"
+  },
+  "src/assets/darbai/mcm-kategorijos-m-480.webp": {
+    "file": "assets/darbai/mcm-kategorijos-m-480.webp",
+    "src": "src/assets/darbai/mcm-kategorijos-m-480.webp"
+  },
+  "src/assets/darbai/mcm-kategorijos-m-600.webp": {
+    "file": "assets/darbai/mcm-kategorijos-m-600.webp",
+    "src": "src/assets/darbai/mcm-kategorijos-m-600.webp"
+  },
+  "src/assets/darbai/mcm-kategorijos-m-780.webp": {
+    "file": "assets/darbai/mcm-kategorijos-m-780.webp",
+    "src": "src/assets/darbai/mcm-kategorijos-m-780.webp"
+  },
+  "src/assets/darbai/mcm-kolekcija-d-1400.webp": {
+    "file": "assets/darbai/mcm-kolekcija-d-1400.webp",
+    "src": "src/assets/darbai/mcm-kolekcija-d-1400.webp"
+  },
+  "src/assets/darbai/mcm-kolekcija-d-1800.webp": {
+    "file": "assets/darbai/mcm-kolekcija-d-1800.webp",
+    "src": "src/assets/darbai/mcm-kolekcija-d-1800.webp"
+  },
+  "src/assets/darbai/mcm-kolekcija-d-900.webp": {
+    "file": "assets/darbai/mcm-kolekcija-d-900.webp",
+    "src": "src/assets/darbai/mcm-kolekcija-d-900.webp"
+  },
+  "src/assets/darbai/mcm-kolekcija-m-1170.webp": {
+    "file": "assets/darbai/mcm-kolekcija-m-1170.webp",
+    "src": "src/assets/darbai/mcm-kolekcija-m-1170.webp"
+  },
+  "src/assets/darbai/mcm-kolekcija-m-160.webp": {
+    "file": "assets/darbai/mcm-kolekcija-m-160.webp",
+    "src": "src/assets/darbai/mcm-kolekcija-m-160.webp"
+  },
+  "src/assets/darbai/mcm-kolekcija-m-240.webp": {
+    "file": "assets/darbai/mcm-kolekcija-m-240.webp",
+    "src": "src/assets/darbai/mcm-kolekcija-m-240.webp"
+  },
+  "src/assets/darbai/mcm-kolekcija-m-390.webp": {
+    "file": "assets/darbai/mcm-kolekcija-m-390.webp",
+    "src": "src/assets/darbai/mcm-kolekcija-m-390.webp"
+  },
+  "src/assets/darbai/mcm-kolekcija-m-480.webp": {
+    "file": "assets/darbai/mcm-kolekcija-m-480.webp",
+    "src": "src/assets/darbai/mcm-kolekcija-m-480.webp"
+  },
+  "src/assets/darbai/mcm-kolekcija-m-600.webp": {
+    "file": "assets/darbai/mcm-kolekcija-m-600.webp",
+    "src": "src/assets/darbai/mcm-kolekcija-m-600.webp"
+  },
+  "src/assets/darbai/mcm-kolekcija-m-780.webp": {
+    "file": "assets/darbai/mcm-kolekcija-m-780.webp",
+    "src": "src/assets/darbai/mcm-kolekcija-m-780.webp"
+  },
+  "src/assets/darbai/mcm-preke-d-1400.webp": {
+    "file": "assets/darbai/mcm-preke-d-1400.webp",
+    "src": "src/assets/darbai/mcm-preke-d-1400.webp"
+  },
+  "src/assets/darbai/mcm-preke-d-1800.webp": {
+    "file": "assets/darbai/mcm-preke-d-1800.webp",
+    "src": "src/assets/darbai/mcm-preke-d-1800.webp"
+  },
+  "src/assets/darbai/mcm-preke-d-900.webp": {
+    "file": "assets/darbai/mcm-preke-d-900.webp",
+    "src": "src/assets/darbai/mcm-preke-d-900.webp"
+  },
+  "src/assets/darbai/mcm-preke-m-1170.webp": {
+    "file": "assets/darbai/mcm-preke-m-1170.webp",
+    "src": "src/assets/darbai/mcm-preke-m-1170.webp"
+  },
+  "src/assets/darbai/mcm-preke-m-160.webp": {
+    "file": "assets/darbai/mcm-preke-m-160.webp",
+    "src": "src/assets/darbai/mcm-preke-m-160.webp"
+  },
+  "src/assets/darbai/mcm-preke-m-240.webp": {
+    "file": "assets/darbai/mcm-preke-m-240.webp",
+    "src": "src/assets/darbai/mcm-preke-m-240.webp"
+  },
+  "src/assets/darbai/mcm-preke-m-390.webp": {
+    "file": "assets/darbai/mcm-preke-m-390.webp",
+    "src": "src/assets/darbai/mcm-preke-m-390.webp"
+  },
+  "src/assets/darbai/mcm-preke-m-480.webp": {
+    "file": "assets/darbai/mcm-preke-m-480.webp",
+    "src": "src/assets/darbai/mcm-preke-m-480.webp"
+  },
+  "src/assets/darbai/mcm-preke-m-600.webp": {
+    "file": "assets/darbai/mcm-preke-m-600.webp",
+    "src": "src/assets/darbai/mcm-preke-m-600.webp"
+  },
+  "src/assets/darbai/mcm-preke-m-780.webp": {
+    "file": "assets/darbai/mcm-preke-m-780.webp",
+    "src": "src/assets/darbai/mcm-preke-m-780.webp"
+  },
+  "src/assets/darbai/mcm-preke-thumb-240.webp": {
+    "file": "assets/darbai/mcm-preke-thumb-240.webp",
+    "src": "src/assets/darbai/mcm-preke-thumb-240.webp"
+  },
+  "src/assets/darbai/mcm-preke-thumb-480.webp": {
+    "file": "assets/darbai/mcm-preke-thumb-480.webp",
+    "src": "src/assets/darbai/mcm-preke-thumb-480.webp"
+  },
+  "src/assets/darbai/mcm-titulinis-thumb-240.webp": {
+    "file": "assets/darbai/mcm-titulinis-thumb-240.webp",
+    "src": "src/assets/darbai/mcm-titulinis-thumb-240.webp"
+  },
+  "src/assets/darbai/mcm-titulinis-thumb-480.webp": {
+    "file": "assets/darbai/mcm-titulinis-thumb-480.webp",
+    "src": "src/assets/darbai/mcm-titulinis-thumb-480.webp"
+  },
+  "src/assets/darbai/visas/ak-parduotuve-d-01-1350.webp": {
+    "file": "assets/darbai/ak-parduotuve-d-01-1350.webp",
+    "src": "src/assets/darbai/visas/ak-parduotuve-d-01-1350.webp"
+  },
+  "src/assets/darbai/visas/ak-parduotuve-d-01-1800.webp": {
+    "file": "assets/darbai/ak-parduotuve-d-01-1800.webp",
+    "src": "src/assets/darbai/visas/ak-parduotuve-d-01-1800.webp"
+  },
+  "src/assets/darbai/visas/ak-parduotuve-d-01-900.webp": {
+    "file": "assets/darbai/ak-parduotuve-d-01-900.webp",
+    "src": "src/assets/darbai/visas/ak-parduotuve-d-01-900.webp"
+  },
+  "src/assets/darbai/visas/ak-parduotuve-d-02-1350.webp": {
+    "file": "assets/darbai/ak-parduotuve-d-02-1350.webp",
+    "src": "src/assets/darbai/visas/ak-parduotuve-d-02-1350.webp"
+  },
+  "src/assets/darbai/visas/ak-parduotuve-d-02-1800.webp": {
+    "file": "assets/darbai/ak-parduotuve-d-02-1800.webp",
+    "src": "src/assets/darbai/visas/ak-parduotuve-d-02-1800.webp"
+  },
+  "src/assets/darbai/visas/ak-parduotuve-d-02-900.webp": {
+    "file": "assets/darbai/ak-parduotuve-d-02-900.webp",
+    "src": "src/assets/darbai/visas/ak-parduotuve-d-02-900.webp"
+  },
+  "src/assets/darbai/visas/ak-parduotuve-d-map.webp": {
+    "file": "assets/darbai/ak-parduotuve-d-map.webp",
+    "src": "src/assets/darbai/visas/ak-parduotuve-d-map.webp"
+  },
+  "src/assets/darbai/visas/ak-parduotuve-m-01-1170.webp": {
+    "file": "assets/darbai/ak-parduotuve-m-01-1170.webp",
+    "src": "src/assets/darbai/visas/ak-parduotuve-m-01-1170.webp"
+  },
+  "src/assets/darbai/visas/ak-parduotuve-m-01-780.webp": {
+    "file": "assets/darbai/ak-parduotuve-m-01-780.webp",
+    "src": "src/assets/darbai/visas/ak-parduotuve-m-01-780.webp"
+  },
+  "src/assets/darbai/visas/ak-parduotuve-m-02-1170.webp": {
+    "file": "assets/darbai/ak-parduotuve-m-02-1170.webp",
+    "src": "src/assets/darbai/visas/ak-parduotuve-m-02-1170.webp"
+  },
+  "src/assets/darbai/visas/ak-parduotuve-m-02-780.webp": {
+    "file": "assets/darbai/ak-parduotuve-m-02-780.webp",
+    "src": "src/assets/darbai/visas/ak-parduotuve-m-02-780.webp"
+  },
+  "src/assets/darbai/visas/ak-parduotuve-m-03-1170.webp": {
+    "file": "assets/darbai/ak-parduotuve-m-03-1170.webp",
+    "src": "src/assets/darbai/visas/ak-parduotuve-m-03-1170.webp"
+  },
+  "src/assets/darbai/visas/ak-parduotuve-m-03-780.webp": {
+    "file": "assets/darbai/ak-parduotuve-m-03-780.webp",
+    "src": "src/assets/darbai/visas/ak-parduotuve-m-03-780.webp"
+  },
+  "src/assets/darbai/visas/ak-parduotuve-m-04-1170.webp": {
+    "file": "assets/darbai/ak-parduotuve-m-04-1170.webp",
+    "src": "src/assets/darbai/visas/ak-parduotuve-m-04-1170.webp"
+  },
+  "src/assets/darbai/visas/ak-parduotuve-m-04-780.webp": {
+    "file": "assets/darbai/ak-parduotuve-m-04-780.webp",
+    "src": "src/assets/darbai/visas/ak-parduotuve-m-04-780.webp"
+  },
+  "src/assets/darbai/visas/ak-parduotuve-m-05-1170.webp": {
+    "file": "assets/darbai/ak-parduotuve-m-05-1170.webp",
+    "src": "src/assets/darbai/visas/ak-parduotuve-m-05-1170.webp"
+  },
+  "src/assets/darbai/visas/ak-parduotuve-m-05-780.webp": {
+    "file": "assets/darbai/ak-parduotuve-m-05-780.webp",
+    "src": "src/assets/darbai/visas/ak-parduotuve-m-05-780.webp"
+  },
+  "src/assets/darbai/visas/ak-parduotuve-m-map.webp": {
+    "file": "assets/darbai/ak-parduotuve-m-map.webp",
+    "src": "src/assets/darbai/visas/ak-parduotuve-m-map.webp"
+  },
+  "src/assets/darbai/visas/ak-titulinis-d-01-1350.webp": {
+    "file": "assets/darbai/ak-titulinis-d-01-1350.webp",
+    "src": "src/assets/darbai/visas/ak-titulinis-d-01-1350.webp"
+  },
+  "src/assets/darbai/visas/ak-titulinis-d-01-1800.webp": {
+    "file": "assets/darbai/ak-titulinis-d-01-1800.webp",
+    "src": "src/assets/darbai/visas/ak-titulinis-d-01-1800.webp"
+  },
+  "src/assets/darbai/visas/ak-titulinis-d-01-900.webp": {
+    "file": "assets/darbai/ak-titulinis-d-01-900.webp",
+    "src": "src/assets/darbai/visas/ak-titulinis-d-01-900.webp"
+  },
+  "src/assets/darbai/visas/ak-titulinis-d-02-1350.webp": {
+    "file": "assets/darbai/ak-titulinis-d-02-1350.webp",
+    "src": "src/assets/darbai/visas/ak-titulinis-d-02-1350.webp"
+  },
+  "src/assets/darbai/visas/ak-titulinis-d-02-1800.webp": {
+    "file": "assets/darbai/ak-titulinis-d-02-1800.webp",
+    "src": "src/assets/darbai/visas/ak-titulinis-d-02-1800.webp"
+  },
+  "src/assets/darbai/visas/ak-titulinis-d-02-900.webp": {
+    "file": "assets/darbai/ak-titulinis-d-02-900.webp",
+    "src": "src/assets/darbai/visas/ak-titulinis-d-02-900.webp"
+  },
+  "src/assets/darbai/visas/ak-titulinis-d-03-1350.webp": {
+    "file": "assets/darbai/ak-titulinis-d-03-1350.webp",
+    "src": "src/assets/darbai/visas/ak-titulinis-d-03-1350.webp"
+  },
+  "src/assets/darbai/visas/ak-titulinis-d-03-1800.webp": {
+    "file": "assets/darbai/ak-titulinis-d-03-1800.webp",
+    "src": "src/assets/darbai/visas/ak-titulinis-d-03-1800.webp"
+  },
+  "src/assets/darbai/visas/ak-titulinis-d-03-900.webp": {
+    "file": "assets/darbai/ak-titulinis-d-03-900.webp",
+    "src": "src/assets/darbai/visas/ak-titulinis-d-03-900.webp"
+  },
+  "src/assets/darbai/visas/ak-titulinis-d-04-1350.webp": {
+    "file": "assets/darbai/ak-titulinis-d-04-1350.webp",
+    "src": "src/assets/darbai/visas/ak-titulinis-d-04-1350.webp"
+  },
+  "src/assets/darbai/visas/ak-titulinis-d-04-1800.webp": {
+    "file": "assets/darbai/ak-titulinis-d-04-1800.webp",
+    "src": "src/assets/darbai/visas/ak-titulinis-d-04-1800.webp"
+  },
+  "src/assets/darbai/visas/ak-titulinis-d-04-900.webp": {
+    "file": "assets/darbai/ak-titulinis-d-04-900.webp",
+    "src": "src/assets/darbai/visas/ak-titulinis-d-04-900.webp"
+  },
+  "src/assets/darbai/visas/ak-titulinis-d-05-1350.webp": {
+    "file": "assets/darbai/ak-titulinis-d-05-1350.webp",
+    "src": "src/assets/darbai/visas/ak-titulinis-d-05-1350.webp"
+  },
+  "src/assets/darbai/visas/ak-titulinis-d-05-1800.webp": {
+    "file": "assets/darbai/ak-titulinis-d-05-1800.webp",
+    "src": "src/assets/darbai/visas/ak-titulinis-d-05-1800.webp"
+  },
+  "src/assets/darbai/visas/ak-titulinis-d-05-900.webp": {
+    "file": "assets/darbai/ak-titulinis-d-05-900.webp",
+    "src": "src/assets/darbai/visas/ak-titulinis-d-05-900.webp"
+  },
+  "src/assets/darbai/visas/ak-titulinis-d-map.webp": {
+    "file": "assets/darbai/ak-titulinis-d-map.webp",
+    "src": "src/assets/darbai/visas/ak-titulinis-d-map.webp"
+  },
+  "src/assets/darbai/visas/ak-titulinis-m-01-1170.webp": {
+    "file": "assets/darbai/ak-titulinis-m-01-1170.webp",
+    "src": "src/assets/darbai/visas/ak-titulinis-m-01-1170.webp"
+  },
+  "src/assets/darbai/visas/ak-titulinis-m-01-780.webp": {
+    "file": "assets/darbai/ak-titulinis-m-01-780.webp",
+    "src": "src/assets/darbai/visas/ak-titulinis-m-01-780.webp"
+  },
+  "src/assets/darbai/visas/ak-titulinis-m-02-1170.webp": {
+    "file": "assets/darbai/ak-titulinis-m-02-1170.webp",
+    "src": "src/assets/darbai/visas/ak-titulinis-m-02-1170.webp"
+  },
+  "src/assets/darbai/visas/ak-titulinis-m-02-780.webp": {
+    "file": "assets/darbai/ak-titulinis-m-02-780.webp",
+    "src": "src/assets/darbai/visas/ak-titulinis-m-02-780.webp"
+  },
+  "src/assets/darbai/visas/ak-titulinis-m-03-1170.webp": {
+    "file": "assets/darbai/ak-titulinis-m-03-1170.webp",
+    "src": "src/assets/darbai/visas/ak-titulinis-m-03-1170.webp"
+  },
+  "src/assets/darbai/visas/ak-titulinis-m-03-780.webp": {
+    "file": "assets/darbai/ak-titulinis-m-03-780.webp",
+    "src": "src/assets/darbai/visas/ak-titulinis-m-03-780.webp"
+  },
+  "src/assets/darbai/visas/ak-titulinis-m-04-1170.webp": {
+    "file": "assets/darbai/ak-titulinis-m-04-1170.webp",
+    "src": "src/assets/darbai/visas/ak-titulinis-m-04-1170.webp"
+  },
+  "src/assets/darbai/visas/ak-titulinis-m-04-780.webp": {
+    "file": "assets/darbai/ak-titulinis-m-04-780.webp",
+    "src": "src/assets/darbai/visas/ak-titulinis-m-04-780.webp"
+  },
+  "src/assets/darbai/visas/ak-titulinis-m-05-1170.webp": {
+    "file": "assets/darbai/ak-titulinis-m-05-1170.webp",
+    "src": "src/assets/darbai/visas/ak-titulinis-m-05-1170.webp"
+  },
+  "src/assets/darbai/visas/ak-titulinis-m-05-780.webp": {
+    "file": "assets/darbai/ak-titulinis-m-05-780.webp",
+    "src": "src/assets/darbai/visas/ak-titulinis-m-05-780.webp"
+  },
+  "src/assets/darbai/visas/ak-titulinis-m-06-1170.webp": {
+    "file": "assets/darbai/ak-titulinis-m-06-1170.webp",
+    "src": "src/assets/darbai/visas/ak-titulinis-m-06-1170.webp"
+  },
+  "src/assets/darbai/visas/ak-titulinis-m-06-780.webp": {
+    "file": "assets/darbai/ak-titulinis-m-06-780.webp",
+    "src": "src/assets/darbai/visas/ak-titulinis-m-06-780.webp"
+  },
+  "src/assets/darbai/visas/ak-titulinis-m-07-1170.webp": {
+    "file": "assets/darbai/ak-titulinis-m-07-1170.webp",
+    "src": "src/assets/darbai/visas/ak-titulinis-m-07-1170.webp"
+  },
+  "src/assets/darbai/visas/ak-titulinis-m-07-780.webp": {
+    "file": "assets/darbai/ak-titulinis-m-07-780.webp",
+    "src": "src/assets/darbai/visas/ak-titulinis-m-07-780.webp"
+  },
+  "src/assets/darbai/visas/ak-titulinis-m-08-1170.webp": {
+    "file": "assets/darbai/ak-titulinis-m-08-1170.webp",
+    "src": "src/assets/darbai/visas/ak-titulinis-m-08-1170.webp"
+  },
+  "src/assets/darbai/visas/ak-titulinis-m-08-780.webp": {
+    "file": "assets/darbai/ak-titulinis-m-08-780.webp",
+    "src": "src/assets/darbai/visas/ak-titulinis-m-08-780.webp"
+  },
+  "src/assets/darbai/visas/ak-titulinis-m-09-1170.webp": {
+    "file": "assets/darbai/ak-titulinis-m-09-1170.webp",
+    "src": "src/assets/darbai/visas/ak-titulinis-m-09-1170.webp"
+  },
+  "src/assets/darbai/visas/ak-titulinis-m-09-780.webp": {
+    "file": "assets/darbai/ak-titulinis-m-09-780.webp",
+    "src": "src/assets/darbai/visas/ak-titulinis-m-09-780.webp"
+  },
+  "src/assets/darbai/visas/ak-titulinis-m-10-1170.webp": {
+    "file": "assets/darbai/ak-titulinis-m-10-1170.webp",
+    "src": "src/assets/darbai/visas/ak-titulinis-m-10-1170.webp"
+  },
+  "src/assets/darbai/visas/ak-titulinis-m-10-780.webp": {
+    "file": "assets/darbai/ak-titulinis-m-10-780.webp",
+    "src": "src/assets/darbai/visas/ak-titulinis-m-10-780.webp"
+  },
+  "src/assets/darbai/visas/ak-titulinis-m-map.webp": {
+    "file": "assets/darbai/ak-titulinis-m-map.webp",
+    "src": "src/assets/darbai/visas/ak-titulinis-m-map.webp"
+  },
+  "src/assets/darbai/visas/mcm-kategorija-d-01-1350.webp": {
+    "file": "assets/darbai/mcm-kategorija-d-01-1350.webp",
+    "src": "src/assets/darbai/visas/mcm-kategorija-d-01-1350.webp"
+  },
+  "src/assets/darbai/visas/mcm-kategorija-d-01-1800.webp": {
+    "file": "assets/darbai/mcm-kategorija-d-01-1800.webp",
+    "src": "src/assets/darbai/visas/mcm-kategorija-d-01-1800.webp"
+  },
+  "src/assets/darbai/visas/mcm-kategorija-d-01-900.webp": {
+    "file": "assets/darbai/mcm-kategorija-d-01-900.webp",
+    "src": "src/assets/darbai/visas/mcm-kategorija-d-01-900.webp"
+  },
+  "src/assets/darbai/visas/mcm-kategorija-d-02-1350.webp": {
+    "file": "assets/darbai/mcm-kategorija-d-02-1350.webp",
+    "src": "src/assets/darbai/visas/mcm-kategorija-d-02-1350.webp"
+  },
+  "src/assets/darbai/visas/mcm-kategorija-d-02-1800.webp": {
+    "file": "assets/darbai/mcm-kategorija-d-02-1800.webp",
+    "src": "src/assets/darbai/visas/mcm-kategorija-d-02-1800.webp"
+  },
+  "src/assets/darbai/visas/mcm-kategorija-d-02-900.webp": {
+    "file": "assets/darbai/mcm-kategorija-d-02-900.webp",
+    "src": "src/assets/darbai/visas/mcm-kategorija-d-02-900.webp"
+  },
+  "src/assets/darbai/visas/mcm-kategorija-d-map.webp": {
+    "file": "assets/darbai/mcm-kategorija-d-map.webp",
+    "src": "src/assets/darbai/visas/mcm-kategorija-d-map.webp"
+  },
+  "src/assets/darbai/visas/mcm-kategorija-m-01-1170.webp": {
+    "file": "assets/darbai/mcm-kategorija-m-01-1170.webp",
+    "src": "src/assets/darbai/visas/mcm-kategorija-m-01-1170.webp"
+  },
+  "src/assets/darbai/visas/mcm-kategorija-m-01-780.webp": {
+    "file": "assets/darbai/mcm-kategorija-m-01-780.webp",
+    "src": "src/assets/darbai/visas/mcm-kategorija-m-01-780.webp"
+  },
+  "src/assets/darbai/visas/mcm-kategorija-m-02-1170.webp": {
+    "file": "assets/darbai/mcm-kategorija-m-02-1170.webp",
+    "src": "src/assets/darbai/visas/mcm-kategorija-m-02-1170.webp"
+  },
+  "src/assets/darbai/visas/mcm-kategorija-m-02-780.webp": {
+    "file": "assets/darbai/mcm-kategorija-m-02-780.webp",
+    "src": "src/assets/darbai/visas/mcm-kategorija-m-02-780.webp"
+  },
+  "src/assets/darbai/visas/mcm-kategorija-m-03-1170.webp": {
+    "file": "assets/darbai/mcm-kategorija-m-03-1170.webp",
+    "src": "src/assets/darbai/visas/mcm-kategorija-m-03-1170.webp"
+  },
+  "src/assets/darbai/visas/mcm-kategorija-m-03-780.webp": {
+    "file": "assets/darbai/mcm-kategorija-m-03-780.webp",
+    "src": "src/assets/darbai/visas/mcm-kategorija-m-03-780.webp"
+  },
+  "src/assets/darbai/visas/mcm-kategorija-m-04-1170.webp": {
+    "file": "assets/darbai/mcm-kategorija-m-04-1170.webp",
+    "src": "src/assets/darbai/visas/mcm-kategorija-m-04-1170.webp"
+  },
+  "src/assets/darbai/visas/mcm-kategorija-m-04-780.webp": {
+    "file": "assets/darbai/mcm-kategorija-m-04-780.webp",
+    "src": "src/assets/darbai/visas/mcm-kategorija-m-04-780.webp"
+  },
+  "src/assets/darbai/visas/mcm-kategorija-m-05-1170.webp": {
+    "file": "assets/darbai/mcm-kategorija-m-05-1170.webp",
+    "src": "src/assets/darbai/visas/mcm-kategorija-m-05-1170.webp"
+  },
+  "src/assets/darbai/visas/mcm-kategorija-m-05-780.webp": {
+    "file": "assets/darbai/mcm-kategorija-m-05-780.webp",
+    "src": "src/assets/darbai/visas/mcm-kategorija-m-05-780.webp"
+  },
+  "src/assets/darbai/visas/mcm-kategorija-m-map.webp": {
+    "file": "assets/darbai/mcm-kategorija-m-map.webp",
+    "src": "src/assets/darbai/visas/mcm-kategorija-m-map.webp"
+  },
+  "src/assets/darbai/visas/mcm-preke-d-01-1350.webp": {
+    "file": "assets/darbai/mcm-preke-d-01-1350.webp",
+    "src": "src/assets/darbai/visas/mcm-preke-d-01-1350.webp"
+  },
+  "src/assets/darbai/visas/mcm-preke-d-01-1800.webp": {
+    "file": "assets/darbai/mcm-preke-d-01-1800.webp",
+    "src": "src/assets/darbai/visas/mcm-preke-d-01-1800.webp"
+  },
+  "src/assets/darbai/visas/mcm-preke-d-01-900.webp": {
+    "file": "assets/darbai/mcm-preke-d-01-900.webp",
+    "src": "src/assets/darbai/visas/mcm-preke-d-01-900.webp"
+  },
+  "src/assets/darbai/visas/mcm-preke-d-02-1350.webp": {
+    "file": "assets/darbai/mcm-preke-d-02-1350.webp",
+    "src": "src/assets/darbai/visas/mcm-preke-d-02-1350.webp"
+  },
+  "src/assets/darbai/visas/mcm-preke-d-02-1800.webp": {
+    "file": "assets/darbai/mcm-preke-d-02-1800.webp",
+    "src": "src/assets/darbai/visas/mcm-preke-d-02-1800.webp"
+  },
+  "src/assets/darbai/visas/mcm-preke-d-02-900.webp": {
+    "file": "assets/darbai/mcm-preke-d-02-900.webp",
+    "src": "src/assets/darbai/visas/mcm-preke-d-02-900.webp"
+  },
+  "src/assets/darbai/visas/mcm-preke-d-03-1350.webp": {
+    "file": "assets/darbai/mcm-preke-d-03-1350.webp",
+    "src": "src/assets/darbai/visas/mcm-preke-d-03-1350.webp"
+  },
+  "src/assets/darbai/visas/mcm-preke-d-03-1800.webp": {
+    "file": "assets/darbai/mcm-preke-d-03-1800.webp",
+    "src": "src/assets/darbai/visas/mcm-preke-d-03-1800.webp"
+  },
+  "src/assets/darbai/visas/mcm-preke-d-03-900.webp": {
+    "file": "assets/darbai/mcm-preke-d-03-900.webp",
+    "src": "src/assets/darbai/visas/mcm-preke-d-03-900.webp"
+  },
+  "src/assets/darbai/visas/mcm-preke-d-map.webp": {
+    "file": "assets/darbai/mcm-preke-d-map.webp",
+    "src": "src/assets/darbai/visas/mcm-preke-d-map.webp"
+  },
+  "src/assets/darbai/visas/mcm-preke-m-01-1170.webp": {
+    "file": "assets/darbai/mcm-preke-m-01-1170.webp",
+    "src": "src/assets/darbai/visas/mcm-preke-m-01-1170.webp"
+  },
+  "src/assets/darbai/visas/mcm-preke-m-01-780.webp": {
+    "file": "assets/darbai/mcm-preke-m-01-780.webp",
+    "src": "src/assets/darbai/visas/mcm-preke-m-01-780.webp"
+  },
+  "src/assets/darbai/visas/mcm-preke-m-02-1170.webp": {
+    "file": "assets/darbai/mcm-preke-m-02-1170.webp",
+    "src": "src/assets/darbai/visas/mcm-preke-m-02-1170.webp"
+  },
+  "src/assets/darbai/visas/mcm-preke-m-02-780.webp": {
+    "file": "assets/darbai/mcm-preke-m-02-780.webp",
+    "src": "src/assets/darbai/visas/mcm-preke-m-02-780.webp"
+  },
+  "src/assets/darbai/visas/mcm-preke-m-03-1170.webp": {
+    "file": "assets/darbai/mcm-preke-m-03-1170.webp",
+    "src": "src/assets/darbai/visas/mcm-preke-m-03-1170.webp"
+  },
+  "src/assets/darbai/visas/mcm-preke-m-03-780.webp": {
+    "file": "assets/darbai/mcm-preke-m-03-780.webp",
+    "src": "src/assets/darbai/visas/mcm-preke-m-03-780.webp"
+  },
+  "src/assets/darbai/visas/mcm-preke-m-04-1170.webp": {
+    "file": "assets/darbai/mcm-preke-m-04-1170.webp",
+    "src": "src/assets/darbai/visas/mcm-preke-m-04-1170.webp"
+  },
+  "src/assets/darbai/visas/mcm-preke-m-04-780.webp": {
+    "file": "assets/darbai/mcm-preke-m-04-780.webp",
+    "src": "src/assets/darbai/visas/mcm-preke-m-04-780.webp"
+  },
+  "src/assets/darbai/visas/mcm-preke-m-map.webp": {
+    "file": "assets/darbai/mcm-preke-m-map.webp",
+    "src": "src/assets/darbai/visas/mcm-preke-m-map.webp"
+  },
+  "src/assets/darbai/visas/mcm-titulinis-d-01-1350.webp": {
+    "file": "assets/darbai/mcm-titulinis-d-01-1350.webp",
+    "src": "src/assets/darbai/visas/mcm-titulinis-d-01-1350.webp"
+  },
+  "src/assets/darbai/visas/mcm-titulinis-d-01-1800.webp": {
+    "file": "assets/darbai/mcm-titulinis-d-01-1800.webp",
+    "src": "src/assets/darbai/visas/mcm-titulinis-d-01-1800.webp"
+  },
+  "src/assets/darbai/visas/mcm-titulinis-d-01-900.webp": {
+    "file": "assets/darbai/mcm-titulinis-d-01-900.webp",
+    "src": "src/assets/darbai/visas/mcm-titulinis-d-01-900.webp"
+  },
+  "src/assets/darbai/visas/mcm-titulinis-d-02-1350.webp": {
+    "file": "assets/darbai/mcm-titulinis-d-02-1350.webp",
+    "src": "src/assets/darbai/visas/mcm-titulinis-d-02-1350.webp"
+  },
+  "src/assets/darbai/visas/mcm-titulinis-d-02-1800.webp": {
+    "file": "assets/darbai/mcm-titulinis-d-02-1800.webp",
+    "src": "src/assets/darbai/visas/mcm-titulinis-d-02-1800.webp"
+  },
+  "src/assets/darbai/visas/mcm-titulinis-d-02-900.webp": {
+    "file": "assets/darbai/mcm-titulinis-d-02-900.webp",
+    "src": "src/assets/darbai/visas/mcm-titulinis-d-02-900.webp"
+  },
+  "src/assets/darbai/visas/mcm-titulinis-d-03-1350.webp": {
+    "file": "assets/darbai/mcm-titulinis-d-03-1350.webp",
+    "src": "src/assets/darbai/visas/mcm-titulinis-d-03-1350.webp"
+  },
+  "src/assets/darbai/visas/mcm-titulinis-d-03-1800.webp": {
+    "file": "assets/darbai/mcm-titulinis-d-03-1800.webp",
+    "src": "src/assets/darbai/visas/mcm-titulinis-d-03-1800.webp"
+  },
+  "src/assets/darbai/visas/mcm-titulinis-d-03-900.webp": {
+    "file": "assets/darbai/mcm-titulinis-d-03-900.webp",
+    "src": "src/assets/darbai/visas/mcm-titulinis-d-03-900.webp"
+  },
+  "src/assets/darbai/visas/mcm-titulinis-d-04-1350.webp": {
+    "file": "assets/darbai/mcm-titulinis-d-04-1350.webp",
+    "src": "src/assets/darbai/visas/mcm-titulinis-d-04-1350.webp"
+  },
+  "src/assets/darbai/visas/mcm-titulinis-d-04-1800.webp": {
+    "file": "assets/darbai/mcm-titulinis-d-04-1800.webp",
+    "src": "src/assets/darbai/visas/mcm-titulinis-d-04-1800.webp"
+  },
+  "src/assets/darbai/visas/mcm-titulinis-d-04-900.webp": {
+    "file": "assets/darbai/mcm-titulinis-d-04-900.webp",
+    "src": "src/assets/darbai/visas/mcm-titulinis-d-04-900.webp"
+  },
+  "src/assets/darbai/visas/mcm-titulinis-d-map.webp": {
+    "file": "assets/darbai/mcm-titulinis-d-map.webp",
+    "src": "src/assets/darbai/visas/mcm-titulinis-d-map.webp"
+  },
+  "src/assets/darbai/visas/mcm-titulinis-m-01-1170.webp": {
+    "file": "assets/darbai/mcm-titulinis-m-01-1170.webp",
+    "src": "src/assets/darbai/visas/mcm-titulinis-m-01-1170.webp"
+  },
+  "src/assets/darbai/visas/mcm-titulinis-m-01-780.webp": {
+    "file": "assets/darbai/mcm-titulinis-m-01-780.webp",
+    "src": "src/assets/darbai/visas/mcm-titulinis-m-01-780.webp"
+  },
+  "src/assets/darbai/visas/mcm-titulinis-m-02-1170.webp": {
+    "file": "assets/darbai/mcm-titulinis-m-02-1170.webp",
+    "src": "src/assets/darbai/visas/mcm-titulinis-m-02-1170.webp"
+  },
+  "src/assets/darbai/visas/mcm-titulinis-m-02-780.webp": {
+    "file": "assets/darbai/mcm-titulinis-m-02-780.webp",
+    "src": "src/assets/darbai/visas/mcm-titulinis-m-02-780.webp"
+  },
+  "src/assets/darbai/visas/mcm-titulinis-m-03-1170.webp": {
+    "file": "assets/darbai/mcm-titulinis-m-03-1170.webp",
+    "src": "src/assets/darbai/visas/mcm-titulinis-m-03-1170.webp"
+  },
+  "src/assets/darbai/visas/mcm-titulinis-m-03-780.webp": {
+    "file": "assets/darbai/mcm-titulinis-m-03-780.webp",
+    "src": "src/assets/darbai/visas/mcm-titulinis-m-03-780.webp"
+  },
+  "src/assets/darbai/visas/mcm-titulinis-m-04-1170.webp": {
+    "file": "assets/darbai/mcm-titulinis-m-04-1170.webp",
+    "src": "src/assets/darbai/visas/mcm-titulinis-m-04-1170.webp"
+  },
+  "src/assets/darbai/visas/mcm-titulinis-m-04-780.webp": {
+    "file": "assets/darbai/mcm-titulinis-m-04-780.webp",
+    "src": "src/assets/darbai/visas/mcm-titulinis-m-04-780.webp"
+  },
+  "src/assets/darbai/visas/mcm-titulinis-m-05-1170.webp": {
+    "file": "assets/darbai/mcm-titulinis-m-05-1170.webp",
+    "src": "src/assets/darbai/visas/mcm-titulinis-m-05-1170.webp"
+  },
+  "src/assets/darbai/visas/mcm-titulinis-m-05-780.webp": {
+    "file": "assets/darbai/mcm-titulinis-m-05-780.webp",
+    "src": "src/assets/darbai/visas/mcm-titulinis-m-05-780.webp"
+  },
+  "src/assets/darbai/visas/mcm-titulinis-m-06-1170.webp": {
+    "file": "assets/darbai/mcm-titulinis-m-06-1170.webp",
+    "src": "src/assets/darbai/visas/mcm-titulinis-m-06-1170.webp"
+  },
+  "src/assets/darbai/visas/mcm-titulinis-m-06-780.webp": {
+    "file": "assets/darbai/mcm-titulinis-m-06-780.webp",
+    "src": "src/assets/darbai/visas/mcm-titulinis-m-06-780.webp"
+  },
+  "src/assets/darbai/visas/mcm-titulinis-m-07-1170.webp": {
+    "file": "assets/darbai/mcm-titulinis-m-07-1170.webp",
+    "src": "src/assets/darbai/visas/mcm-titulinis-m-07-1170.webp"
+  },
+  "src/assets/darbai/visas/mcm-titulinis-m-07-780.webp": {
+    "file": "assets/darbai/mcm-titulinis-m-07-780.webp",
+    "src": "src/assets/darbai/visas/mcm-titulinis-m-07-780.webp"
+  },
+  "src/assets/darbai/visas/mcm-titulinis-m-08-1170.webp": {
+    "file": "assets/darbai/mcm-titulinis-m-08-1170.webp",
+    "src": "src/assets/darbai/visas/mcm-titulinis-m-08-1170.webp"
+  },
+  "src/assets/darbai/visas/mcm-titulinis-m-08-780.webp": {
+    "file": "assets/darbai/mcm-titulinis-m-08-780.webp",
+    "src": "src/assets/darbai/visas/mcm-titulinis-m-08-780.webp"
+  },
+  "src/assets/darbai/visas/mcm-titulinis-m-map.webp": {
+    "file": "assets/darbai/mcm-titulinis-m-map.webp",
+    "src": "src/assets/darbai/visas/mcm-titulinis-m-map.webp"
+  },
+  "src/assets/fonts/ibm-plex-mono-400-latin-ext.woff2": {
+    "file": "assets/fonts/ibm-plex-mono-400-latin-ext.woff2",
+    "src": "src/assets/fonts/ibm-plex-mono-400-latin-ext.woff2"
+  },
+  "src/assets/fonts/ibm-plex-mono-400-latin.woff2": {
+    "file": "assets/fonts/ibm-plex-mono-400-latin.woff2",
+    "src": "src/assets/fonts/ibm-plex-mono-400-latin.woff2"
+  },
+  "src/assets/fonts/outfit-latin-ext.woff2": {
+    "file": "assets/fonts/outfit-latin-ext.woff2",
+    "src": "src/assets/fonts/outfit-latin-ext.woff2"
+  },
+  "src/assets/fonts/outfit-latin.woff2": {
+    "file": "assets/fonts/outfit-latin.woff2",
+    "src": "src/assets/fonts/outfit-latin.woff2"
+  },
+  "src/components/project/ProjectMissing.tsx": {
+    "file": "assets/ProjectMissing-dXwR7uqG.js",
+    "name": "ProjectMissing",
+    "src": "src/components/project/ProjectMissing.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_ui-DJuTCyz9.js"
+    ]
+  },
+  "src/components/project/ProjectPage.tsx": {
+    "file": "assets/ProjectPage-DVwjs_jT.js",
+    "name": "ProjectPage",
+    "src": "src/components/project/ProjectPage.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_motion-D4pvMnRC.js",
+      "_ui-DJuTCyz9.js"
+    ]
+  },
+  "src/components/viewer/Viewer.tsx": {
+    "file": "assets/Viewer-CObxmNUA.js",
+    "name": "Viewer",
+    "src": "src/components/viewer/Viewer.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_motion-D4pvMnRC.js",
+      "_ui-DJuTCyz9.js"
+    ],
+    "css": [
+      "assets/Viewer-8HPG_7ZO.css"
+    ],
+    "assets": [
+      "assets/darbai/ak-parduotuve-d-01-1350.webp",
+      "assets/darbai/ak-parduotuve-d-01-1800.webp",
+      "assets/darbai/ak-parduotuve-d-01-900.webp",
+      "assets/darbai/ak-parduotuve-d-02-1350.webp",
+      "assets/darbai/ak-parduotuve-d-02-1800.webp",
+      "assets/darbai/ak-parduotuve-d-02-900.webp",
+      "assets/darbai/ak-parduotuve-d-map.webp",
+      "assets/darbai/ak-parduotuve-m-01-1170.webp",
+      "assets/darbai/ak-parduotuve-m-01-780.webp",
+      "assets/darbai/ak-parduotuve-m-02-1170.webp",
+      "assets/darbai/ak-parduotuve-m-02-780.webp",
+      "assets/darbai/ak-parduotuve-m-03-1170.webp",
+      "assets/darbai/ak-parduotuve-m-03-780.webp",
+      "assets/darbai/ak-parduotuve-m-04-1170.webp",
+      "assets/darbai/ak-parduotuve-m-04-780.webp",
+      "assets/darbai/ak-parduotuve-m-05-1170.webp",
+      "assets/darbai/ak-parduotuve-m-05-780.webp",
+      "assets/darbai/ak-parduotuve-m-map.webp",
+      "assets/darbai/ak-titulinis-d-01-1350.webp",
+      "assets/darbai/ak-titulinis-d-01-1800.webp",
+      "assets/darbai/ak-titulinis-d-01-900.webp",
+      "assets/darbai/ak-titulinis-d-02-1350.webp",
+      "assets/darbai/ak-titulinis-d-02-1800.webp",
+      "assets/darbai/ak-titulinis-d-02-900.webp",
+      "assets/darbai/ak-titulinis-d-03-1350.webp",
+      "assets/darbai/ak-titulinis-d-03-1800.webp",
+      "assets/darbai/ak-titulinis-d-03-900.webp",
+      "assets/darbai/ak-titulinis-d-04-1350.webp",
+      "assets/darbai/ak-titulinis-d-04-1800.webp",
+      "assets/darbai/ak-titulinis-d-04-900.webp",
+      "assets/darbai/ak-titulinis-d-05-1350.webp",
+      "assets/darbai/ak-titulinis-d-05-1800.webp",
+      "assets/darbai/ak-titulinis-d-05-900.webp",
+      "assets/darbai/ak-titulinis-d-map.webp",
+      "assets/darbai/ak-titulinis-m-01-1170.webp",
+      "assets/darbai/ak-titulinis-m-01-780.webp",
+      "assets/darbai/ak-titulinis-m-02-1170.webp",
+      "assets/darbai/ak-titulinis-m-02-780.webp",
+      "assets/darbai/ak-titulinis-m-03-1170.webp",
+      "assets/darbai/ak-titulinis-m-03-780.webp",
+      "assets/darbai/ak-titulinis-m-04-1170.webp",
+      "assets/darbai/ak-titulinis-m-04-780.webp",
+      "assets/darbai/ak-titulinis-m-05-1170.webp",
+      "assets/darbai/ak-titulinis-m-05-780.webp",
+      "assets/darbai/ak-titulinis-m-06-1170.webp",
+      "assets/darbai/ak-titulinis-m-06-780.webp",
+      "assets/darbai/ak-titulinis-m-07-1170.webp",
+      "assets/darbai/ak-titulinis-m-07-780.webp",
+      "assets/darbai/ak-titulinis-m-08-1170.webp",
+      "assets/darbai/ak-titulinis-m-08-780.webp",
+      "assets/darbai/ak-titulinis-m-09-1170.webp",
+      "assets/darbai/ak-titulinis-m-09-780.webp",
+      "assets/darbai/ak-titulinis-m-10-1170.webp",
+      "assets/darbai/ak-titulinis-m-10-780.webp",
+      "assets/darbai/ak-titulinis-m-map.webp",
+      "assets/darbai/mcm-kategorija-d-01-1350.webp",
+      "assets/darbai/mcm-kategorija-d-01-1800.webp",
+      "assets/darbai/mcm-kategorija-d-01-900.webp",
+      "assets/darbai/mcm-kategorija-d-02-1350.webp",
+      "assets/darbai/mcm-kategorija-d-02-1800.webp",
+      "assets/darbai/mcm-kategorija-d-02-900.webp",
+      "assets/darbai/mcm-kategorija-d-map.webp",
+      "assets/darbai/mcm-kategorija-m-01-1170.webp",
+      "assets/darbai/mcm-kategorija-m-01-780.webp",
+      "assets/darbai/mcm-kategorija-m-02-1170.webp",
+      "assets/darbai/mcm-kategorija-m-02-780.webp",
+      "assets/darbai/mcm-kategorija-m-03-1170.webp",
+      "assets/darbai/mcm-kategorija-m-03-780.webp",
+      "assets/darbai/mcm-kategorija-m-04-1170.webp",
+      "assets/darbai/mcm-kategorija-m-04-780.webp",
+      "assets/darbai/mcm-kategorija-m-05-1170.webp",
+      "assets/darbai/mcm-kategorija-m-05-780.webp",
+      "assets/darbai/mcm-kategorija-m-map.webp",
+      "assets/darbai/mcm-preke-d-01-1350.webp",
+      "assets/darbai/mcm-preke-d-01-1800.webp",
+      "assets/darbai/mcm-preke-d-01-900.webp",
+      "assets/darbai/mcm-preke-d-02-1350.webp",
+      "assets/darbai/mcm-preke-d-02-1800.webp",
+      "assets/darbai/mcm-preke-d-02-900.webp",
+      "assets/darbai/mcm-preke-d-03-1350.webp",
+      "assets/darbai/mcm-preke-d-03-1800.webp",
+      "assets/darbai/mcm-preke-d-03-900.webp",
+      "assets/darbai/mcm-preke-d-map.webp",
+      "assets/darbai/mcm-preke-m-01-1170.webp",
+      "assets/darbai/mcm-preke-m-01-780.webp",
+      "assets/darbai/mcm-preke-m-02-1170.webp",
+      "assets/darbai/mcm-preke-m-02-780.webp",
+      "assets/darbai/mcm-preke-m-03-1170.webp",
+      "assets/darbai/mcm-preke-m-03-780.webp",
+      "assets/darbai/mcm-preke-m-04-1170.webp",
+      "assets/darbai/mcm-preke-m-04-780.webp",
+      "assets/darbai/mcm-preke-m-map.webp",
+      "assets/darbai/mcm-titulinis-d-01-1350.webp",
+      "assets/darbai/mcm-titulinis-d-01-1800.webp",
+      "assets/darbai/mcm-titulinis-d-01-900.webp",
+      "assets/darbai/mcm-titulinis-d-02-1350.webp",
+      "assets/darbai/mcm-titulinis-d-02-1800.webp",
+      "assets/darbai/mcm-titulinis-d-02-900.webp",
+      "assets/darbai/mcm-titulinis-d-03-1350.webp",
+      "assets/darbai/mcm-titulinis-d-03-1800.webp",
+      "assets/darbai/mcm-titulinis-d-03-900.webp",
+      "assets/darbai/mcm-titulinis-d-04-1350.webp",
+      "assets/darbai/mcm-titulinis-d-04-1800.webp",
+      "assets/darbai/mcm-titulinis-d-04-900.webp",
+      "assets/darbai/mcm-titulinis-d-map.webp",
+      "assets/darbai/mcm-titulinis-m-01-1170.webp",
+      "assets/darbai/mcm-titulinis-m-01-780.webp",
+      "assets/darbai/mcm-titulinis-m-02-1170.webp",
+      "assets/darbai/mcm-titulinis-m-02-780.webp",
+      "assets/darbai/mcm-titulinis-m-03-1170.webp",
+      "assets/darbai/mcm-titulinis-m-03-780.webp",
+      "assets/darbai/mcm-titulinis-m-04-1170.webp",
+      "assets/darbai/mcm-titulinis-m-04-780.webp",
+      "assets/darbai/mcm-titulinis-m-05-1170.webp",
+      "assets/darbai/mcm-titulinis-m-05-780.webp",
+      "assets/darbai/mcm-titulinis-m-06-1170.webp",
+      "assets/darbai/mcm-titulinis-m-06-780.webp",
+      "assets/darbai/mcm-titulinis-m-07-1170.webp",
+      "assets/darbai/mcm-titulinis-m-07-780.webp",
+      "assets/darbai/mcm-titulinis-m-08-1170.webp",
+      "assets/darbai/mcm-titulinis-m-08-780.webp",
+      "assets/darbai/mcm-titulinis-m-map.webp"
+    ]
+  },
+  "src/components/webgl/FieldScene.tsx": {
+    "file": "assets/FieldScene-9HPmyh0w.js",
+    "name": "FieldScene",
+    "src": "src/components/webgl/FieldScene.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_ui-DJuTCyz9.js"
+    ]
+  },
+  "src/pages/DarbaiPage.tsx": {
+    "file": "assets/DarbaiPage-LI34J3XZ.js",
+    "name": "DarbaiPage",
+    "src": "src/pages/DarbaiPage.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_ui-DJuTCyz9.js"
+    ]
+  },
+  "src/pages/EigaPage.tsx": {
+    "file": "assets/EigaPage-CjLukiUV.js",
+    "name": "EigaPage",
+    "src": "src/pages/EigaPage.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_ui-DJuTCyz9.js"
+    ]
+  },
+  "src/pages/KainosPage.tsx": {
+    "file": "assets/KainosPage-Dd7qLn8n.js",
+    "name": "KainosPage",
+    "src": "src/pages/KainosPage.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_ui-DJuTCyz9.js"
+    ]
+  },
+  "src/pages/KontaktaiPage.tsx": {
+    "file": "assets/KontaktaiPage-hjWjy-IN.js",
+    "name": "KontaktaiPage",
+    "src": "src/pages/KontaktaiPage.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_motion-D4pvMnRC.js",
+      "_ui-DJuTCyz9.js"
+    ]
+  },
+  "src/pages/PaslaugaPage.tsx": {
+    "file": "assets/PaslaugaPage-BoN0Oefw.js",
+    "name": "PaslaugaPage",
+    "src": "src/pages/PaslaugaPage.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_ui-DJuTCyz9.js"
+    ]
+  },
+  "src/pages/PaslaugosPage.tsx": {
+    "file": "assets/PaslaugosPage-C_leTEV1.js",
+    "name": "PaslaugosPage",
+    "src": "src/pages/PaslaugosPage.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_ui-DJuTCyz9.js"
+    ]
+  },
+  "src/pages/PrivatumasPage.tsx": {
+    "file": "assets/PrivatumasPage-BKzelrC0.js",
+    "name": "PrivatumasPage",
+    "src": "src/pages/PrivatumasPage.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_ui-DJuTCyz9.js"
+    ]
+  }
+}
