@@ -3,8 +3,8 @@
     "file": "assets/motion-D4pvMnRC.js",
     "name": "motion"
   },
-  "_ui-DA362LK9.js": {
-    "file": "assets/ui-DA362LK9.js",
+  "_ui-_xLdBOg5.js": {
+    "file": "assets/ui-_xLdBOg5.js",
     "name": "ui",
     "imports": [
       "index.html",
@@ -15,7 +15,7 @@
     ]
   },
   "index.html": {
-    "file": "assets/index-Ci6K9ASN.js",
+    "file": "assets/index-a-0F1NKw.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -32,7 +32,7 @@
       "src/App.tsx"
     ],
     "css": [
-      "assets/index-CFgCK2H8.css"
+      "assets/index-Cz1ebMj7.css"
     ],
     "assets": [
       "assets/darbai/ak-cover-d-1400.webp",
@@ -135,14 +135,14 @@
     ]
   },
   "src/App.tsx": {
-    "file": "assets/App-N3UWZBtv.js",
+    "file": "assets/App-D19_5_Az.js",
     "name": "App",
     "src": "src/App.tsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
       "_motion-D4pvMnRC.js",
-      "_ui-DA362LK9.js"
+      "_ui-_xLdBOg5.js"
     ],
     "dynamicImports": [
       "src/components/webgl/FieldScene.tsx"
@@ -1025,35 +1025,35 @@
     "src": "src/assets/fonts/outfit-latin.woff2"
   },
   "src/components/project/ProjectMissing.tsx": {
-    "file": "assets/ProjectMissing-68upfEHm.js",
+    "file": "assets/ProjectMissing-CPDrdMxu.js",
     "name": "ProjectMissing",
     "src": "src/components/project/ProjectMissing.tsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_ui-DA362LK9.js"
+      "_ui-_xLdBOg5.js"
     ]
   },
   "src/components/project/ProjectPage.tsx": {
-    "file": "assets/ProjectPage-D3efbbzX.js",
+    "file": "assets/ProjectPage-DaZCdZG6.js",
     "name": "ProjectPage",
     "src": "src/components/project/ProjectPage.tsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
       "_motion-D4pvMnRC.js",
-      "_ui-DA362LK9.js"
+      "_ui-_xLdBOg5.js"
     ]
   },
   "src/components/viewer/Viewer.tsx": {
-    "file": "assets/Viewer-Bg1Vys0v.js",
+    "file": "assets/Viewer-BqOk0QtC.js",
     "name": "Viewer",
     "src": "src/components/viewer/Viewer.tsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
       "_motion-D4pvMnRC.js",
-      "_ui-DA362LK9.js"
+      "_ui-_xLdBOg5.js"
     ],
     "css": [
       "assets/Viewer-DXCYQZll.css"
@@ -1184,84 +1184,84 @@
     ]
   },
   "src/components/webgl/FieldScene.tsx": {
-    "file": "assets/FieldScene-DQslNSAa.js",
+    "file": "assets/FieldScene-CXY5SMRR.js",
     "name": "FieldScene",
     "src": "src/components/webgl/FieldScene.tsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_ui-DA362LK9.js"
+      "_ui-_xLdBOg5.js"
     ]
   },
   "src/pages/DarbaiPage.tsx": {
-    "file": "assets/DarbaiPage-zBnoUQQ6.js",
+    "file": "assets/DarbaiPage-DUeueMb8.js",
     "name": "DarbaiPage",
     "src": "src/pages/DarbaiPage.tsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_ui-DA362LK9.js"
+      "_ui-_xLdBOg5.js"
     ]
   },
   "src/pages/EigaPage.tsx": {
-    "file": "assets/EigaPage-TNvp7gI6.js",
+    "file": "assets/EigaPage-CBhDPCXM.js",
     "name": "EigaPage",
     "src": "src/pages/EigaPage.tsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_ui-DA362LK9.js"
+      "_ui-_xLdBOg5.js"
     ]
   },
   "src/pages/KainosPage.tsx": {
-    "file": "assets/KainosPage-Ctldl14N.js",
+    "file": "assets/KainosPage-Cwwf18Kt.js",
     "name": "KainosPage",
     "src": "src/pages/KainosPage.tsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_ui-DA362LK9.js"
+      "_ui-_xLdBOg5.js"
     ]
   },
   "src/pages/KontaktaiPage.tsx": {
-    "file": "assets/KontaktaiPage-DDjcPJ1X.js",
+    "file": "assets/KontaktaiPage-D24y7kky.js",
     "name": "KontaktaiPage",
     "src": "src/pages/KontaktaiPage.tsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
       "_motion-D4pvMnRC.js",
-      "_ui-DA362LK9.js"
+      "_ui-_xLdBOg5.js"
     ]
   },
   "src/pages/PaslaugaPage.tsx": {
-    "file": "assets/PaslaugaPage-DVgdur12.js",
+    "file": "assets/PaslaugaPage-B6dljas1.js",
     "name": "PaslaugaPage",
     "src": "src/pages/PaslaugaPage.tsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_ui-DA362LK9.js"
+      "_ui-_xLdBOg5.js"
     ]
   },
   "src/pages/PaslaugosPage.tsx": {
-    "file": "assets/PaslaugosPage-DLtuj7HF.js",
+    "file": "assets/PaslaugosPage-CfZ8_mcM.js",
     "name": "PaslaugosPage",
     "src": "src/pages/PaslaugosPage.tsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_ui-DA362LK9.js"
+      "_ui-_xLdBOg5.js"
     ]
   },
   "src/pages/PrivatumasPage.tsx": {
-    "file": "assets/PrivatumasPage-BEDGosHs.js",
+    "file": "assets/PrivatumasPage-CtCTzZcG.js",
     "name": "PrivatumasPage",
     "src": "src/pages/PrivatumasPage.tsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
-      "_ui-DA362LK9.js"
+      "_ui-_xLdBOg5.js"
     ]
   }
 }
